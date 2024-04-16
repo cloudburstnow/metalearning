@@ -1,4 +1,4 @@
-In this project I have done an Implementation of two algorithims taken from two papers on meta learning.
+In this project I have done a PyTorch implementation of two algorithims taken from two papers on meta learning.
 
 MAML from "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 https://arxiv.org/abs/1803.02999
